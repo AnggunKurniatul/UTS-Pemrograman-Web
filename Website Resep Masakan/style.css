@@ -1,0 +1,21 @@
+nav{
+    background-color: pink;
+}
+.container-fluid{
+    background-color: white;
+}
+div h2{
+    background-color:#E5E7E9;
+}
+.navbar-brand{
+    font-size: 30px;
+    font-weight: 800;
+    font-style: italic;
+}
+.footer-container{
+    padding: 10px 10px;
+    background-color: pink;
+}
+h6{
+    font-weight: 600;
+}
